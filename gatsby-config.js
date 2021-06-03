@@ -1,18 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Reform Pilates Cork`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sally`,
+      summary: `Owner, Reform Pilates`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Mat, Barre and Reformer pilates classes in Cork City.`,
+    siteUrl: `http://reformpilatescork.ie/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `##twitt##`,
     },
   },
   plugins: [
   `gatsby-plugin-netlify-cms`,
+  `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
