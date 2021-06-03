@@ -1,0 +1,622 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700,800,900|Satisfy&display=swap');
+html {
+  scroll-behavior: smooth;
+}
+
+h1,h2,h3,h4,h5{
+    margin-bottom: .5em;
+    font-family: 'Montserrat',sans-serif;
+}
+
+h4{
+    font-size: 1.5em;
+}
+
+hr{
+  background-color: #dc473d;
+  max-width: 100px;
+}
+
+html{
+  position: relative;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+body{
+font-family: 'Montserrat',sans-serif;
+position: relative;
+}
+
+section{
+  position: relative;
+    overflow: hidden;
+}
+
+.ghost{
+    background-image: url('http://reformpilatescork.ie/img/reformghost.jpg');
+    width: 100vw;
+    opacity: .4;
+    position: absolute;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    height: 430vh;
+}
+
+
+.containerfullwidth{
+  width: 100%;
+  max-width: 100%;
+}
+
+
+/******************/
+/*Comment
+/*******************/
+.navbar-center{
+    width: 33.333%;
+}
+
+.navbar .navbar-link{
+  color: #000;
+  font-size: 1.5em;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.centerlogo{
+    width: 100%;
+    text-align: center;
+    display: block;
+    position: relative;
+}
+
+.centerlogo img{
+    max-height: 20vh;
+    margin-left: -10vh;
+    position: absolute;
+}
+
+
+.mainbanner{
+        padding: 1em 0 2em;
+    background-color: #fff;
+    position: relative;
+}
+
+.mainbanner .swiper-container .hotyogaslide{
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.mainbanner .swiper-container .hotyogaslide p{
+color: #feef00;
+position: absolute;
+bottom: .5em;
+left: .5em;
+font-weight: 900;
+text-transform: uppercase;
+text-shadow: 1px 1px 20px #c3bd47;
+ font-family: 'Montserrat',sans-serif;
+ z-index: 4;
+}
+
+.mainbanner .swiper-container .sliderbloverlay{
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background: #000;
+opacity:0.3;
+position: absolute;
+}
+
+
+
+.mainbanner .swiper-container .hotyogaslide p span{
+font-weight: 300;
+}
+
+/******************/
+/*section-a
+/*******************/
+
+.section-a{
+    background-color: #000000;
+    padding: 3em 0;
+    margin-bottom: 2em;
+}
+
+.section-a .picholder{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.section-a .yellowbox{
+    background-color: #feef00;
+   width: 18em;
+   height: 18em;
+   bottom: 6em;
+   left: 6em;
+}
+
+.section-a .sallybox{
+   background-image: url('http://reformpilatescork.ie/img/sallypic.jpg');
+   background-size: cover;
+   width: 18em;
+   height: 18em;
+}
+
+
+.section-a .anote{
+    font-size: 2em;
+    color: #F7FB02;
+    font-weight: 900;
+}
+
+
+.section-a .descriptionzone{
+    font-size: 1.3em;
+    color: #fff;
+    font-weight: 700;
+}
+
+
+.section-a .signature{
+  font-size: 1.5em;
+  color: #fff;
+font-family: 'Satisfy',serif;
+}
+
+
+.maintext{
+    color: #fff;
+}
+
+.maintext strong{
+   color: #F7FB02;
+}
+
+/********************/
+/*** ********** *****/
+/********************/
+
+.section-ab{
+    background-color: #000000;
+    padding: 3em 0;
+    margin-bottom: 2em;
+}
+
+.section-ab .sallybox{
+   background-image: url('http://reformpilatescork.ie/img/sallypic.jpg');
+   background-size: cover;
+   width: 18em;
+   height: 18em;
+   bottom: 0;
+   left: 0;
+}
+
+
+.section-ab .anote{
+    font-size: 2em;
+    color: #F7FB02;
+    font-weight: 900;
+}
+
+
+.section-ab .signature{
+  font-size: 1.8em;
+  margin-bottom: .5em;
+  color: #F7FB02;
+font-family: 'Satisfy',serif;
+}
+
+
+.maintext{
+    color: #fff;
+}
+
+.maintext strong{
+   color: #F7FB02;
+}
+/******************/
+/*Comment
+/*******************/
+.section-b{
+    background: #949599;
+}
+
+
+.section-b .findushold .sveeghold{
+    width: 100%;
+    height: 100%;
+    background-size: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/*.section-b .internalpadding{
+      padding: 4em 0 16em 0;
+}*/
+
+.section-b .largeaddresstext{
+  color: #F7FB02;
+      font-weight: 700;
+    font-size: 2em;
+    font-style: normal;
+    display: block;
+    text-transform: uppercase;
+}
+
+
+.section-b .loweraddresstext{
+  color: #fff;
+      font-weight: 400;
+    font-size: 1.3em;
+    font-style: italic;
+    display: block;
+}
+
+/******************/
+/*Comment
+/*******************/
+.section-c{
+    background: #ffffff;
+    padding: 2em 0;
+    overflow: hidden;
+}
+
+
+.section-c .swiper-container-below{
+  width: 100%;
+}
+
+.section-c .gallery{
+height: 20em;
+width: 20em;
+background-size: cover;
+border-left: 1em solid #fff;
+border-right: 1em solid #fff;
+}
+
+
+/******************/
+/*Comment
+/*******************/
+.section-d{
+        background: #949599;
+        margin-bottom: 2em;
+}
+
+.section-d .greypart,
+.section-d .greypartnopadding{
+    background: #949599;
+}
+
+.section-d .greypartnopadding .sveeghold{
+    width: 100%;
+    height: 100%;
+    background-size: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.section-d .socialholder .sveeghold{
+    width: 100%;
+    height: 100%;
+    background-size: 15%;
+    background-position: 5% 50%;
+    background-repeat: no-repeat;
+}
+
+.section-d .blackend .tophalf{
+      width: 100%;
+    height: 50%;
+}
+
+.section-d .blackend .tophalf .hasturnedtext{
+  position: relative;
+      width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.section-d .blackend .bottomhalf{
+padding: 2em;
+}
+
+.section-d .blackend .bottomhalf a{
+font-size: 1.5em;
+color: #fff;
+}
+
+
+
+.section-d .blackend .turnlefttextsocial{
+       transform: rotate(-90deg) translateX(3em) translateY(-4em);
+    color: #fefefe !important;
+    position: absolute;
+    font-weight: 800;
+    font-size: 2em;
+    width: 100%;
+    left: 0;
+    top: 0;
+    transform-origin: center;
+    line-height: 1em;
+}
+
+.section-d .greypart p{
+   color:#000;
+}
+
+.section-d .blackend{
+    padding: 0;
+    background: #000;
+}
+
+/******************/
+/*app mindbody
+/*******************/
+.section-app{
+  padding: 3em 0;
+     background-image: url('http://reformpilatescork.ie/img/backpattblack.jpg');
+   background-size: contain;
+   margin-bottom: 2em;
+}
+
+.section-app h3{
+  text-align: center;
+    font-weight: 800;
+    font-size: 3em;
+    color: #F7FB02;
+}
+
+
+.semantic-content .modal-inner {
+    max-height: 80vh;
+    background-color: #F7FB02;
+  }
+
+
+
+#mindbody_branded_web_cart_modal{
+  height: 90%;
+}
+
+/******************/
+/*footer
+/*******************/
+
+.footer{
+  background: #F7FB02;
+  border-top: 1em solid #000;
+}
+
+.footer a, .footer p{
+  color: #000;
+}
+
+.mobheader .circletop{
+    width: 25vw;
+    height: 25vw;
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    z-index: 999;
+    margin: 0 auto;
+}
+
+.mobheader .getclass{
+  background: #000;
+  color: #F7FB02;
+  text-transform: uppercase;
+  font-weight: 600;
+      margin-top: 1em;
+    margin-right: 1em;
+}
+.shapeshifter{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  pointer-events: none;
+}
+
+
+.shapeshifter .shapes{
+      width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 4em;
+    height: 5em;
+    opacity: .5;
+}
+
+
+.classhammer{
+  position: fixed;
+  bottom: 15%;
+  right: -0.5em;
+  padding: 0;
+  z-index: 9;
+  z-index: 999;
+}
+
+.classhammer .hotlink{
+  background: #F7FB02;
+  border-radius: 10px;
+  color: #000;
+  font-size: 3em;
+  padding: .25em 1em .25em .25em;
+      margin-right: -.25em;
+          width: 100%;
+    display: block;
+}
+
+
+.subfoot{
+  background: #000;
+  text-align: center;
+  color: #fff;
+  font-size: 10px;
+}
+
+.subfoot a{
+  margin: 0 .25em;
+  color: #fff;
+}
+/*//////////////////// break ////////////////////////////////*/
+
+
+  @media screen and (min-width:1088px) {
+
+body{
+border-top: 1em solid #fff;
+border-right: 2em solid #fff;
+border-left: 2em solid #fff;
+border-bottom: 2em solid #fff;
+}
+
+.mainbanner .swiper-container .hotyogaslide p{
+font-size: 6em;
+}
+
+.section-a .yellowbox{
+   position: absolute;
+}
+
+.section-a .sallybox{
+   position: absolute;
+}
+.section-a .anote {
+    padding-top: 2.5em;
+  }
+
+.maintext {
+    padding-bottom: 4em;
+}
+
+
+.section-b .internalpadding {
+    padding: 4em 0 16em 0;
+}
+.section-d .greypart {
+    padding: 8em 0;
+}
+
+.section-b .largeaddresstext {
+    font-size: 2em;
+    }
+
+.section-d .greypart p{
+   font-size: 1.5em;
+}
+
+.classhammer .hotlink{
+  background: #F7FB02;
+  border-radius: 10px;
+  color: #000;
+  font-size: 3em;
+  padding: .25em 1em .25em .25em;
+      margin-right: -.25em;
+          width: 100%;
+    display: block;
+}
+
+.section-a .sallybox{
+   bottom: 2em;
+   left: 2em;
+}
+
+.showonmobile{
+  display: none;
+}
+.hideonmobile{
+  display: block;
+}
+}
+
+
+
+  @media screen and (max-width:1087px) {
+body{
+border-top: 0em solid #fff;
+border-right: 0em solid #fff;
+border-left: 0em solid #fff;
+border-bottom: 0em solid #fff;
+}
+
+.mainbanner .swiper-container .hotyogaslide p{
+font-size: 2em;
+}
+.section-a {
+  padding: 1.5em;
+}
+
+.section-a .yellowbox{
+ display: none;
+}
+
+.section-a .sallybox{
+   position: relative;
+   width: 100%;
+}
+
+.section-a .anote {
+    padding-top: .5em;
+  }
+.maintext {
+    padding-bottom: 1em;
+}
+.section-b .internalpadding {
+    padding: 1.5em;
+}
+.section-d .greypart {
+  padding: 1.5em;
+}
+.turnlefttextsocial, .turnlefttext{
+  display: none;
+}
+.section-b .largeaddresstext {
+    font-size: 1.2em;
+    }
+.section-d .greypart p{
+   font-size: .9em;
+}
+.footer{
+      padding: 3rem 1.5rem;
+}
+
+
+.classhammer .hotlink{
+  background: #F7FB02;
+  border-radius: 10px;
+  color: #000;
+  font-size: 1.5em;
+  padding: .25em 1em .25em .25em;
+      margin-right: -.25em;
+          width: 100%;
+    display: block;
+}
+
+.section-a .sallybox{
+   bottom: 0em;
+   left: 0em;
+}
+
+.showonmobile{
+  display: block;
+}
+.hideonmobile{
+  display: none;
+}
+}
