@@ -1,15 +1,16 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import {graphql } from "gatsby"
 
 
 import Navbar from "../components/navbar"
+import Reformfooter from "../components/footer"
+import Bookaclass from "../components/bookaclass"
 import Swipage from "../components/swiper"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const MainHome = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
 
 
   return (
@@ -17,6 +18,8 @@ const MainHome = ({ data, location }) => {
       <Seo title="All posts" />
      <Navbar />
      <Swipage />
+     <Bookaclass />
+     <Reformfooter />
     </Layout>
   )
 }
