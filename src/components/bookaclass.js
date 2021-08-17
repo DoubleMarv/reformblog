@@ -28,8 +28,8 @@ const Bookaclass = () => {
 		<div className="columns is-marginless is-centered">
 
 			<div className="column is-two-thirds"> 
-				<script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
-				<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="0d105610b7c1" data-widget-version="1" ></healcode-widget>
+{/*				<script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
+				<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="0d105610b7c1" data-widget-version="1" ></healcode-widget>*/}
 			</div>
 
 		</div>

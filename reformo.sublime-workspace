@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"page",
+				"pageContext"
+			],
+			[
+				"tags",
+				"tagstoRender"
+			],
+			[
+				"tag",
+				"tagstoRender"
+			],
+			[
+				"Ar",
+				"Artistpager"
+			],
+			[
+				"artist",
+				"artistinfo"
+			],
+			[
+				"du",
+				"Dump"
+			],
+			[
+				"art",
+				"artistes"
+			],
+			[
+				"graph",
+				"graphCmsDataBoyy"
+			],
+			[
+				"navv",
+				"navvage"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"con",
+				"confused"
+			],
+			[
+				"get",
+				"getbool"
+			],
+			[
+				"ge",
+				"getStyle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gatsby-config.js",
+			"settings":
+			{
+				"buffer_size": 3601,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/bookaclass.js",
+			"settings":
+			{
+				"buffer_size": 981,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/layout.js",
+			"settings":
+			{
+				"buffer_size": 500,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/pages/index.js",
+			"settings":
+			{
+				"buffer_size": 1285,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/pages/aboutus.js",
+			"settings":
+			{
+				"buffer_size": 1286,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/navbar.js",
+			"settings":
+			{
+				"buffer_size": 2516,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/homepage/homeswiper.js",
+			"settings":
+			{
+				"buffer_size": 3162,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/homepage/findus.js",
+			"settings":
+			{
+				"buffer_size": 1721,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/reform/blog/src",
+		"/C/Users/user/reform/blog/src/components",
+		"/C/Users/user/reform/blog/src/homepage",
+		"/C/Users/user/reform/blog/src/images",
+		"/C/Users/user/reform/blog/src/pages"
+	],
+	"file_history":
+	[
+		"/C/Users/user/reform/blog/src/homepage/home-swiper.js",
+		"/C/Users/user/reform/blog/src/components/swiper.js",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/reactgat.sublime-snippet",
+		"/C/Users/user/reform/blog/.gitignore",
+		"/C/Users/user/reform/blog/.prettierrc",
+		"/C/Users/user/reform/blog/gatsby-browser.js",
+		"/C/Users/user/reform/blog/.prettierignore",
+		"/C/Users/user/reform/blog/gatsby-config.js",
+		"/C/Users/user/reform/blog/LICENSE",
+		"/C/Users/user/reform/blog/gatsby-node.js",
+		"/C/Users/user/reform/blog/package-lock.json",
+		"/C/Users/user/reform/blog/package.json",
+		"/C/Users/user/reform/blog/README.md",
+		"/C/Users/user/pattern/source/_patterns/02-organisms/global/header.hbs",
+		"/C/Users/user/pattern/source/_patterns/02-organisms/lists/card-list.hbs",
+		"/C/Users/user/pattern/source/_patterns/03-templates/card-list.hbs",
+		"/C/Users/user/pattern/source/_patterns/03-templates/page.hbs",
+		"/C/Users/user/gatsby/artconto/src/templates/tagspage.js",
+		"/C/Users/user/gatsby/artconto/src/pages/components/mainnav.js",
+		"/C/Users/user/gatsby/artconto/src/templates/artistpage.js",
+		"/C/Users/user/gatsby/artconto/src/pages/components/artistfeed.js",
+		"/C/Users/user/gatsby/artconto/src/pages/404.js",
+		"/C/Users/user/gatsby/artconto/gatsby-node.js",
+		"/C/Users/user/gatsby/artconto/gatsby-config.js",
+		"/C/Users/user/gatsby/artconto/src/pages/about.js",
+		"/C/Users/user/gatsby/stash/artistsfeed.js",
+		"/C/Users/user/gatsby/artconto/src/pages/artists.js",
+		"/C/Users/user/gatsby/artconto/src/pages/index.js",
+		"/C/Users/user/gatsby/artconto/src/pages/components/artistloop.js",
+		"/C/Users/user/gatsby/artconto/src/pages/components/artistpage.js",
+		"/C/Users/user/gatsby/artconto/src/pages/components/tags.js",
+		"/C/Users/user/gatsby/artconto/node_modules/@wesbos/dump/Dump.js",
+		"/C/Users/user/gatsby/artconto/src/pages/components/artistsfeed.js",
+		"/C/Users/user/reform/blog/src/pages/blog.js",
+		"/C/Users/user/reform/blog/src/pages/404.js",
+		"/C/Users/user/reform/blog/src/libs/bulma.css",
+		"/C/Users/user/react/strappo/frontend/gatsby-config.js",
+		"/C/Users/user/reform/blog/src/pages/index.js",
+		"/C/Users/user/reform/blog/src/libs/swiper.css",
+		"/C/Users/user/reform/blog/src/components/bookaclass.js",
+		"/C/Users/user/reform/blog/src/reform.css",
+		"/C/Users/user/reform/blog/src/components/navbar.js",
+		"/C/Users/user/reform/blog/src/components/layout.js",
+		"/C/Users/user/reform/blog/static/admin/config.yml",
+		"/C/Users/user/react/strappo/frontend/.env",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/functionalreact.sublime-snippet",
+		"/C/Users/user/reform/reformpilates/public/static/admin/config.yml",
+		"/C/Users/user/gatsby/artconto/src/css/allstyles.scss",
+		"/C/Users/user/gatsby/artconto/src/components/dump.js",
+		"/C/Users/user/gatsby/artconto",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/navbar.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/index.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/page.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/index.js",
+		"/C/Users/user/react/fronthammer/frontity.settings.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/mainnav.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/popshower.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/featurecard.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/list.js",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/alertbar.js",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/frontityclass.sublime-snippet",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/rect.sublime-snippet",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/rect.sublime-snippets",
+		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/popimage.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"gallery\"",
+			"</div>",
+			".jpg);\">\n          ",
+			"<div className=\"swiper-slide gallery\" style=\"background-image: url(./img/",
+			"class=",
+			"artistinfo",
+			"pageContext",
+			"resol",
+			"graphcmsdata",
+			"graphCmsData",
+			"graphCmsDataBoyy",
+			"img",
+			"imgg",
+			"class=\"",
+			"BlogIndex",
+			"class=\"",
+			"../img/",
+			"props",
+			"classNme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"className=\"gallery\"",
+			"",
+			".jpg\" + \")\",\n}}></SwiperSlide>",
+			"<SwiperSlide class=\"gallery\" style={{  \n  backgroundImage: \"url(\" + \"http://reformpilatescork.ie/img/",
+			"className=",
+			"artiste",
+			"data",
+			"megadata",
+			"graphcmsdata",
+			"graphCmsData",
+			"className=\"",
+			"http://reformpilatescork.ie/img/",
+			"className"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gatsby-config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/bookaclass.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/layout.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/pages/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/pages/aboutus.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							],
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/navbar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								982,
+								982
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/homepage/homeswiper.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/homepage/findus.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1721,
+								1692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reformo.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

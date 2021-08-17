@@ -2,6 +2,7 @@ import * as React from "react"
 import { Link, graphql } from "gatsby"
 import Navbar from "../components/navbar"
 import Reformfooter from "../components/footer"
+import Internalbanner from "../components/internalbanner"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -28,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
     <Navbar />
       <Seo title="All posts" />
-      <Bio />
+<Internalbanner title="Blog" subtitle="Whatever"/>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug

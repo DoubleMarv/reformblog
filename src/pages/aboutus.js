@@ -5,6 +5,7 @@ import {graphql } from "gatsby"
 import Navbar from "../components/navbar"
 import Reformfooter from "../components/footer"
 import Bookaclass from "../components/bookaclass"
+import Internalbanner from "../components/internalbanner"
 import Sectiona from "../homepage/sectiona"
 import Sectionb from "../homepage/sectionb"
 import Findus from "../homepage/findus"
@@ -13,26 +14,24 @@ import Swipage from "../components/swiper"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const MainHome = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+const Aboutus = ({ data, location }) => {
+  const siteTitle = data.site.siteMetadata?.title || `About Us`
 
 
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
      <Navbar />
-     <Swipage />
+     <Internalbanner title="About Us" subtitle="Get to know us or some shit"/>
      <Sectiona />
      <Sectionb />
      <Findus />
-     <Homeswiper />
-     <Bookaclass />
      <Reformfooter />
     </Layout>
   )
 }
 
-export default MainHome
+export default Aboutus
 
 export const pageQuery = graphql`
   query {

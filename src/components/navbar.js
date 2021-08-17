@@ -22,12 +22,21 @@ const Navbar = ({ state }) => {
 <nav className="navbar" role="navigation" aria-label="dropdown navigation">
   <div className="navbar-menu">
     <div className="navbar-start">
-      <div className="navbar-item">
-        <a className="navbar-link is-arrowless" href="#bookaclass">
-          Book a Class
-        </a>
-        <Link to="/blog" className="navbar-link is-arrowless">Blog</Link>
+<div className="navbar-item has-dropdown is-hoverable">
+<Link to="/classes" className="navbar-link is-arrowless">Classes</Link>
+
+        <div className="navbar-dropdown">
+<Link to="/blog" className="navbar-link is-arrowless">SOme Class</Link>
+        </div>
       </div>
+<div className="navbar-item has-dropdown is-hoverable">
+<Link to="/aboutus" className="navbar-link is-arrowless">About Us</Link>
+
+        <div className="navbar-dropdown">
+<Link to="/blog" className="navbar-link is-arrowless">Blog</Link>
+        </div>
+      </div>
+
     </div>
     <div className="navbar-center">
       <Link to="/" className="centerlogo">

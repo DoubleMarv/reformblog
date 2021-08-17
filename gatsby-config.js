@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/storage/gat_reform/`,
   siteMetadata: {
     title: `Reform Pilates Cork`,
     author: {
@@ -14,6 +15,7 @@ module.exports = {
   plugins: [
   `gatsby-plugin-netlify-cms`,
   `gatsby-plugin-styled-components`,
+  `gatsby-plugin-sass`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
