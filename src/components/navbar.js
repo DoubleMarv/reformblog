@@ -24,9 +24,14 @@ const Navbar = ({ state }) => {
     <div className="navbar-start">
 <div className="navbar-item has-dropdown is-hoverable">
 <Link to="/classes" className="navbar-link is-arrowless">Classes</Link>
-
         <div className="navbar-dropdown">
-<Link to="/blog" className="navbar-link is-arrowless">SOme Class</Link>
+<Link to="/classes/beginner_reformer" className="navbar-link is-arrowless">Beginner Reformer</Link>
+
+<Link to="/classes/improvers_reformer" className="navbar-link is-arrowless">Improvers Reformer</Link>
+
+<Link to="/classes/advanced_reformer" className="navbar-link is-arrowless">Advanced Reformer</Link>
+
+<Link to="/classes/barre_burn" className="navbar-link is-arrowless">Barre Burn</Link>
         </div>
       </div>
 <div className="navbar-item has-dropdown is-hoverable">

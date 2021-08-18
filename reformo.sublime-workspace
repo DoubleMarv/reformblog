@@ -4,102 +4,531 @@
 		"selected_items":
 		[
 			[
-				"page",
-				"pageContext"
+				"di",
+				"display"
 			],
 			[
-				"tags",
-				"tagstoRender"
+				"font",
+				"font-style"
 			],
 			[
-				"tag",
-				"tagstoRender"
+				"bac",
+				"background\tproperty"
 			],
 			[
-				"Ar",
-				"Artistpager"
+				"margin",
+				"margin-bottom"
 			],
 			[
-				"artist",
-				"artistinfo"
+				"cande",
+				"candleclicker"
 			],
 			[
-				"du",
-				"Dump"
+				"text",
+				"text-align"
 			],
 			[
-				"art",
-				"artistes"
+				"else",
+				"elseif\telseif …"
 			],
 			[
-				"graph",
-				"graphCmsDataBoyy"
+				"templ",
+				"templateUrl"
 			],
 			[
-				"navv",
-				"navvage"
+				"backg",
+				"background-image"
 			],
 			[
-				"cl",
-				"className"
+				"agenda",
+				"agendaitem"
 			],
 			[
-				"con",
-				"confused"
+				"tex",
+				"text-align"
+			],
+			[
+				"filtered",
+				"filteredUsers"
+			],
+			[
+				"swe",
+				"sweetloadeddata"
+			],
+			[
+				"data",
+				"datareceived"
+			],
+			[
+				"dat",
+				"datareceived"
+			],
+			[
+				"overfa",
+				"overfader"
+			],
+			[
+				"overflow-",
+				"overflow-x\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"burger",
+				"burgerSlam"
+			],
+			[
+				"backgropu",
+				"background-repeat"
+			],
+			[
+				"current",
+				"currentSlide"
+			],
+			[
+				"media",
+				"mediachris\tmediachris"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"daliuser",
+				"daliuservisited"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"accord",
+				"accordslide"
+			],
+			[
+				"lo",
+				"lowercase"
+			],
+			[
+				"ligh",
+				"lightblueoverlay"
+			],
+			[
+				"ilens",
+				"ilenwhiskey"
+			],
+			[
+				"doo",
+				"doodlered"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"vic",
+				"vicdarkgrey"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mainf",
+				"mainfont"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"comp",
+				"comp-black"
+			],
+			[
+				"titles",
+				"titleswhite"
+			],
+			[
+				"seco",
+				"secondaryfont"
+			],
+			[
+				"com",
+				"comp-green"
+			],
+			[
+				"comp-",
+				"comp-black"
+			],
+			[
+				"comp-g",
+				"comp-back-grey"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"sec",
+				"secondaryfont"
+			],
+			[
+				"total",
+				"totalnum"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"main",
+				"mainfont"
+			],
+			[
+				"ba",
+				"backgrey"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"secon",
+				"secondary-color"
+			],
+			[
+				"se",
+				"secondary-color"
+			],
+			[
+				"homepro",
+				"homepro-greyline"
+			],
+			[
+				"hom",
+				"homepro-greytext"
+			],
+			[
+				"hoe",
+				"homepro-greytext"
+			],
+			[
+				"backgou",
+				"background-repeat"
+			],
+			[
+				"home",
+				"homepro-greyline"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"homepro-",
+				"homepro-greyback"
+			],
+			[
+				"h",
+				"homepro-blue"
+			],
+			[
+				"nude",
+				"nudge-twodown"
+			],
+			[
+				"homepr",
+				"homepro-grey"
+			],
+			[
+				"homer",
+				"homepro-midblue"
+			],
+			[
+				"homep",
+				"homepro-darkgrey"
+			],
+			[
+				"ho",
+				"homepro-lightblue"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"homepreo",
+				"homepro-white"
+			],
+			[
+				"genera-bl",
+				"genera-black"
+			],
+			[
+				"genera",
+				"genera-lightgrey"
+			],
+			[
+				"gener",
+				"genera-white"
+			],
+			[
+				"genera-",
+				"genera-yellow"
+			],
+			[
+				"gen",
+				"genera-black"
+			],
+			[
+				"buckgre",
+				"buckmidgrey"
+			],
+			[
+				"buck",
+				"buckdarkgrey"
+			],
+			[
+				"buk",
+				"buckwhite"
+			],
+			[
+				"buckgrey",
+				"buckdarkgrey"
+			],
+			[
+				"twitter",
+				"twitter-timeline"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"tranf",
+				"transform"
 			],
 			[
 				"get",
-				"getbool"
+				"getthescore"
 			],
 			[
-				"ge",
-				"getStyle"
+				"translate",
+				"translateY()"
+			],
+			[
+				"final",
+				"finalscore"
+			],
+			[
+				"transfo",
+				"transform-origin"
+			],
+			[
+				"tit",
+				"titetab"
+			],
+			[
+				"title",
+				"titletab"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"wp_re",
+				"wp_register_script"
+			],
+			[
+				"currentVa",
+				"currentValue2"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"special",
+				"specialized-blue"
+			],
+			[
+				"s",
+				"specialized-grey"
+			],
+			[
+				"sm",
+				"smallfont"
+			],
+			[
+				"spe",
+				"specialized-grey"
+			],
+			[
+				"emergenc",
+				"emergecyphone"
+			],
+			[
+				"pricing",
+				"pricingheader"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"fire",
+				"firering"
+			],
+			[
+				"text-c",
+				"text-decoration"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"tr",
+				"translateY()"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"poi",
+				"pointer-events"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"repeat",
+				"background-repeat"
+			],
+			[
+				"fl",
+				"flexsliderthumb4"
+			],
+			[
+				"flexsliderthub",
+				"flexsliderthumb2"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "gatsby-config.js",
+			"file": "src/templates/blog-post.js",
 			"settings":
 			{
-				"buffer_size": 3601,
+				"buffer_size": 2592,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/components/bookaclass.js",
+			"file": "src/pages/classes/barre_burn.js",
 			"settings":
 			{
-				"buffer_size": 981,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/components/layout.js",
-			"settings":
-			{
-				"buffer_size": 500,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/pages/index.js",
-			"settings":
-			{
-				"buffer_size": 1285,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/pages/aboutus.js",
-			"settings":
-			{
-				"buffer_size": 1286,
+				"buffer_size": 1398,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -108,26 +537,34 @@
 			"file": "src/components/navbar.js",
 			"settings":
 			{
-				"buffer_size": 2516,
+				"buffer_size": 2905,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/homepage/homeswiper.js",
+			"file": "src/components/layout.js",
 			"settings":
 			{
-				"buffer_size": 3162,
+				"buffer_size": 702,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "src/homepage/findus.js",
+			"file": "gatsby-config.js",
 			"settings":
 			{
-				"buffer_size": 1721,
+				"buffer_size": 3604,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/pages/blog.js",
+			"settings":
+			{
+				"buffer_size": 2514,
 				"line_ending": "Windows"
 			}
 		}
@@ -139,26 +576,44 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"Package Control: in",
+				"Package Control: ",
 				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
 			],
 			[
 				"insta",
 				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: containo"
 			]
 		],
-		"width": 0.0
+		"width": 524.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 126.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -172,88 +627,201 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/user/reform/blog/src",
-		"/C/Users/user/reform/blog/src/components",
-		"/C/Users/user/reform/blog/src/homepage",
-		"/C/Users/user/reform/blog/src/images",
-		"/C/Users/user/reform/blog/src/pages"
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/src",
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/src/components",
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/src/pages",
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/src/pages/classes",
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/src/templates"
 	],
 	"file_history":
 	[
-		"/C/Users/user/reform/blog/src/homepage/home-swiper.js",
-		"/C/Users/user/reform/blog/src/components/swiper.js",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/reactgat.sublime-snippet",
-		"/C/Users/user/reform/blog/.gitignore",
-		"/C/Users/user/reform/blog/.prettierrc",
-		"/C/Users/user/reform/blog/gatsby-browser.js",
-		"/C/Users/user/reform/blog/.prettierignore",
-		"/C/Users/user/reform/blog/gatsby-config.js",
-		"/C/Users/user/reform/blog/LICENSE",
-		"/C/Users/user/reform/blog/gatsby-node.js",
-		"/C/Users/user/reform/blog/package-lock.json",
-		"/C/Users/user/reform/blog/package.json",
-		"/C/Users/user/reform/blog/README.md",
-		"/C/Users/user/pattern/source/_patterns/02-organisms/global/header.hbs",
-		"/C/Users/user/pattern/source/_patterns/02-organisms/lists/card-list.hbs",
-		"/C/Users/user/pattern/source/_patterns/03-templates/card-list.hbs",
-		"/C/Users/user/pattern/source/_patterns/03-templates/page.hbs",
-		"/C/Users/user/gatsby/artconto/src/templates/tagspage.js",
-		"/C/Users/user/gatsby/artconto/src/pages/components/mainnav.js",
-		"/C/Users/user/gatsby/artconto/src/templates/artistpage.js",
-		"/C/Users/user/gatsby/artconto/src/pages/components/artistfeed.js",
-		"/C/Users/user/gatsby/artconto/src/pages/404.js",
-		"/C/Users/user/gatsby/artconto/gatsby-node.js",
-		"/C/Users/user/gatsby/artconto/gatsby-config.js",
-		"/C/Users/user/gatsby/artconto/src/pages/about.js",
-		"/C/Users/user/gatsby/stash/artistsfeed.js",
-		"/C/Users/user/gatsby/artconto/src/pages/artists.js",
-		"/C/Users/user/gatsby/artconto/src/pages/index.js",
-		"/C/Users/user/gatsby/artconto/src/pages/components/artistloop.js",
-		"/C/Users/user/gatsby/artconto/src/pages/components/artistpage.js",
-		"/C/Users/user/gatsby/artconto/src/pages/components/tags.js",
-		"/C/Users/user/gatsby/artconto/node_modules/@wesbos/dump/Dump.js",
-		"/C/Users/user/gatsby/artconto/src/pages/components/artistsfeed.js",
-		"/C/Users/user/reform/blog/src/pages/blog.js",
-		"/C/Users/user/reform/blog/src/pages/404.js",
-		"/C/Users/user/reform/blog/src/libs/bulma.css",
-		"/C/Users/user/react/strappo/frontend/gatsby-config.js",
-		"/C/Users/user/reform/blog/src/pages/index.js",
-		"/C/Users/user/reform/blog/src/libs/swiper.css",
-		"/C/Users/user/reform/blog/src/components/bookaclass.js",
-		"/C/Users/user/reform/blog/src/reform.css",
-		"/C/Users/user/reform/blog/src/components/navbar.js",
-		"/C/Users/user/reform/blog/src/components/layout.js",
-		"/C/Users/user/reform/blog/static/admin/config.yml",
-		"/C/Users/user/react/strappo/frontend/.env",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/functionalreact.sublime-snippet",
-		"/C/Users/user/reform/reformpilates/public/static/admin/config.yml",
-		"/C/Users/user/gatsby/artconto/src/css/allstyles.scss",
-		"/C/Users/user/gatsby/artconto/src/components/dump.js",
-		"/C/Users/user/gatsby/artconto",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/navbar.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/index.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/page.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/index.js",
-		"/C/Users/user/react/fronthammer/frontity.settings.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/mainnav.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/popshower.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/featurecard.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/list.js",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/alertbar.js",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/frontityclass.sublime-snippet",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/rect.sublime-snippet",
-		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/rect.sublime-snippets",
-		"/C/Users/user/react/fronthammer/packages/bulmatheme/src/components/popimage.js"
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/.gitignore",
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/content/blog/new-location/index.md",
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/content/blog/hello-world/index.md",
+		"/C/Users/Siobhan/Desktop/Double/Reform_Gatsby/gatsby-config.js",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/js/dblmvlls.js",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/dblmvlls.scss",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/newdblmvlls2021.scss",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/tech-agenda.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/template-parts/blocks/internalcontent.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/template-parts/blocks/homepage-titles-b.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/template-parts/partials/navbar.php",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/homepage-titles-b.php",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/internalbanner.php",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/internalcontent.php",
+		"/C/Users/Siobhan/nodeo/index.js",
+		"/C/Users/Siobhan/nodeo/katy.html",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/marvinternal.scss",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/marvportfolio.scss",
+		"/C/Users/Siobhan/Desktop/Double/MiFitness/index.html",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/blocks.scss",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/404.php",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/single.php",
+		"/C/wamp64/www/SEO-Email/mailgenerator.php",
+		"/C/Users/Siobhan/nodeo/hello.txt",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/template-parts/blocks/projectstorm.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/template-parts/blocks/internalbanner.php",
+		"/C/Users/Siobhan/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/footer.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/marvexplain.scss",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/marvtitles.scss",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/src/css/marvnav.scss",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/inc/custom-functions/blockregister.php",
+		"/C/Users/Siobhan/Desktop/Double/Double-FTP/CrapRemove/.htaccess",
+		"/C/Users/Siobhan/Desktop/Double/Double-FTP/CrapRemove/safety/error_log",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/template-parts/blocks/homepage-titles-g.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/app/public/wp-content/themes/dblmvlls/inc/custom-functions/custom-functions.php",
+		"/C/wamp64/www/Intelligo/WP-Build/wp-content/themes/intelligo/inc/custom-functions/custom-functions.php",
+		"/C/wamp64/www/Intelligo/WP-Build/wp-content/themes/intelligo/template-parts/general/navbar-bott.php",
+		"/C/Users/Siobhan/Local Sites/dblmvlls/Grunt/Gruntfile.js",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/Gruntfile.js",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/000-godwin.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/footer.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/app/public/wp-content/themes/godwin2021/header.php",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/backimages.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/mixins.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/utilities.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/js/godwin.js",
+		"/C/Users/Siobhan/Local Sites/godwin/app/public/wp-content/themes/godwin2021/template-parts/partials/navhead.php",
+		"/C/Users/Siobhan/Local Sites/godwin/app/public/wp-content/themes/godwin2021/template-parts/homepage/homepage.php",
+		"/C/Users/Siobhan/Local Sites/godwin/app/public/wp-content/themes/godwin2021/inc/custom-functions/custom-functions.php",
+		"/C/Users/Siobhan/Desktop/Double/Godwin/wp-testing/.htaccess",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/homepage.scss",
+		"/C/Users/Siobhan/Desktop/Double/Godwin/robots.txt",
+		"/C/wamp64/www/StyleHouse/WP-Build/wp-content/themes/stylehouse/homepage.php",
+		"/C/wamp64/www/ChimneyChoice/Grunt/src/js/chimneychoice2021.js",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/000-corkmigrants.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/blocks.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/src/css/nav.scss",
+		"/C/Users/Siobhan/Local Sites/godwin/app/public/wp-content/themes/godwin2021/homepage.php",
+		"/C/Users/Siobhan/Local Sites/godwin/app/public/wp-content/themes/godwin2021/footer.php",
+		"/C/Users/Siobhan/Local Sites/godwin/Grunt/package.json",
+		"/C/Users/Siobhan/Desktop/Double/SkerriesDental/css_used.css",
+		"/C/wamp64/www/Intelligo/WP-Build/wp-content/themes/intelligo/template-parts/general/footer.php",
+		"/C/Users/Siobhan/Local Sites/godwin/app/public/wp-content/themes/godwin2021/functions.php",
+		"/C/wamp64/www/ChimneyChoice/WP-Build/wp-content/themes/chimneychoice2021/functions.php",
+		"/C/wamp64/www/Intelligo/Grunt/src/js/intelligo.js",
+		"/C/wamp64/www/Intelligo/WP-Build/wp-content/themes/intelligo/footer.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/template-parts/blocks/testimonial-blocks.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/utilities.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/footer.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/template-parts/blocks/internal_banner.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/blocks.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/inc/custom-functions/custom-functions.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/inc/custom-functions/blockregister.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/template-parts/blocks/gridofitems.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/footer.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/js/wellbeing2021.js",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/woocommerce/content-single-product.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/template-parts/blocks/product-looper.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/template-parts/blocks/homepagebanner.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/single.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/template-parts/partials/navbar.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/index.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/template-parts/blocks/custom_product_loop.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/000-wellbeing.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/bulma-quickview.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/nav.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/mixins.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/quickview.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/src/css/woocommerce.scss",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/page.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/header.php",
+		"/C/wamp64/www/ChimneyChoice/WP-Build/wp-content/themes/chimneychoice2021/header.php",
+		"/C/Users/Siobhan/Local Sites/corkmigrants/Grunt/Gruntfile.js",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/Gruntfile.js",
+		"/C/Users/Siobhan/Local Sites/wellbeing/app/public/wp-content/themes/wellbeing2021/functions.php",
+		"/C/Users/Siobhan/Local Sites/wellbeing/Grunt/package.json",
+		"/C/Users/Siobhan/Desktop/Double/StyleHouse/stylehouse.txt",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/general/blogarchive-search.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/search.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/allpurpose/section-main-side.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/allpurpose/section-a.php",
+		"/C/wamp64/www/PBVM/Grunt/src/css/pbvm-internal.scss",
+		"/C/wamp64/www/PBVM/Grunt/src/css/pbvm.scss",
+		"/C/wamp64/www/PBVM/Grunt/src/css/pbvm-homepage.scss",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/general/sidebarstuff.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/homepage/mainbanner.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/structure/maincont.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/general/nav.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/structure/worldmap.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/inc/custom-functions/cust-functions.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/footer.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/footer-old.php",
+		"/C/wamp64/www/PBVM/Grunt/src/css/pbvm-general.scss",
+		"/C/wamp64/www/PBVM/Grunt/src/js/pbvm.js",
+		"/C/wamp64/www/ClancysRebuild/WP-Build/wp-config.php",
+		"/C/wamp64/www/RDS_Autos/wp-config.php",
+		"/C/wamp64/www/EdenSite/WP-Build/wp-config.php",
+		"/C/wamp64/www/old-stuff/angelbroom/WP-Build/wp-config.php",
+		"/C/Users/Siobhan/Downloads/chimneychoice2021/chimneychoice2021/functions.php",
+		"/C/Users/Siobhan/Downloads/chimneychoice2021/chimneychoice2021/header.php",
+		"/C/Users/Siobhan/Downloads/chimneychoice2021/chimneychoice2021/page.php",
+		"/C/wamp64/www/old-stuff/Corex/WP-Build/wp-config.php",
+		"/C/wamp64/www/BandonBeauty_Update/WP-Build/wp-config.php",
+		"/C/wamp64/www/PBVM/WP-Build/wp-content/themes/pbvm/template-parts/general/sidebarstuff-internal.php"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 104.0,
 		"where_history":
 		[
+			"C:\\Users\\Siobhan\\Local Sites\\dblmvlls\\Grunt\\src",
+			"C:\\Users\\Siobhan\\Local Sites\\godwin\\Grunt\\src",
+			"C:\\wamp64\\www\\CroninsBooking",
+			"C:\\wamp64\\www\\CroninsBooking\\WP-Build\\wp-content\\plugins\\yith-woocommerce-booking-premium",
+			"C:\\wamp64\\www\\Ignition\\igniter",
+			"C:\\wamp64\\www\\Rockford\\wp-content\\plugins\\facetwp",
+			"C:\\wamp64\\www\\PhoneGap\\GetFat\\www",
+			"C:\\Users\\jumpi\\Downloads\\hookie\\hookie",
+			"C:\\wamp64\\www\\wordpress-25\\wp-content\\themes\\cubictelecom",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\themes\\GolfLivingstone\\woocommerce",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\woocommerce",
+			"",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\woocommerce",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\,C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\woocommerce",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\yith-woocommerce-booking-premium",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\,C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\yith-woocommerce-booking-premium",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\yith-woocommerce-booking-premium",
+			"C:\\wamp64\\www\\Golf-Woocommerce\\wp-content\\themes\\GolfLivingstone,C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\yith-woocommerce-booking-premium",
+			"C:\\wamp64\\www\\Golf-Woocommerce\\wp-content\\themes\\GolfLivingstone",
+			"C:\\wamp64\\www\\,C:\\wamp64\\www\\Golf-Woocommerce\\wp-content\\themes\\GolfLivingstone",
+			"C:\\wamp64\\www\\Golf-Rebuild\\wp-content\\plugins\\yith-woocommerce-booking-premium",
+			"C:\\wamp64\\www\\Golf-Woocommerce\\wp-content\\themes\\GolfLivingstone\\woocommerce",
+			"C:\\wamp64\\www\\wordpress-5\\wp-content\\themes\\tee-shop",
+			"C:\\wamp64\\www\\Gravvo",
+			"C:\\wamp64\\www\\Gravvo\\system",
+			"C:\\wamp64\\www\\Gravvo",
+			"C:\\Users\\jumpi\\Desktop\\Doodle\\tee-shop\\print-invoices-packing-slip-labels-for-woocommerce",
+			"C:\\wamp64\\www\\Drupal\\themes\\tweme",
+			"C:\\Users\\jumpi\\Desktop\\Doodle\\Tapstak\\Changeover\\",
+			"C:\\wamp64\\www\\wordpress-22\\wp-content\\themes\\tapstak",
+			"C:\\wamp64\\www\\wordpress-22\\",
+			"C:\\wamp64\\www\\wordpress-23\\wp-content\\themes\\cork_examiner",
+			"C:\\wamp64\\www\\wordpress-21\\wp-content\\themes\\ramen\\",
+			"C:\\wamp64\\www\\wordpress-21\\wp-content\\themes\\ramen\\template-parts",
+			"C:\\Users\\jumpi\\Desktop\\Double\\Validation-1\\templates",
+			"C:\\wamp64\\www\\wordpress-16\\wp-content\\themes\\gracechurch",
+			"C:\\wamp64\\www\\wordpress-16\\wp-content\\themes\\gracechurch\\tribe-events",
+			"C:\\wamp64\\www\\wordpress-8\\wp-content\\themes\\BedLinen\\woocommerce",
+			"C:\\wamp64\\www\\wordpress-5\\wp-content\\plugins\\woocommerce-bulk-variations",
+			"C:\\wamp64\\www\\wordpress-5",
+			"C:\\Users\\jumpi\\Desktop\\Doodle\\tee-shop\\woocommerce-checkout-add-ons",
+			"C:\\wamp64\\www\\wordpress-5\\wp-content\\themes\\tee-shop\\woocommerce",
+			"C:\\wamp64\\www\\wordpress\\wp-content\\themes\\circular-ocean",
+			"C:\\wamp64\\www\\wordpress-5\\wp-content\\themes\\tee-shop\\woocommerce",
+			"C:\\Users\\jumpi\\Desktop\\Doodle\\Evaluator\\Transfer\\Evaluator",
+			"C:\\wamp64\\www\\wordpress\\wp-content\\themes\\circular-ocean",
+			"C:\\wamp64\\www\\wordpress\\wp-content\\themes\\circular-ocean\\template-parts",
+			""
 		]
 	},
 	"find_state":
@@ -261,45 +829,269 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"class=\"gallery\"",
-			"</div>",
-			".jpg);\">\n          ",
-			"<div className=\"swiper-slide gallery\" style=\"background-image: url(./img/",
+			"Improvers",
+			"from \"../",
+			"funfontone",
+			"poppins",
+			"https://www.doublemarvellous.com/inc/img/chatmag1.jpg",
+			"font",
+			"internalbannermobile",
+			"marv-port",
+			"nav",
+			"hotpaddingbanner",
+			"googformer",
+			"notify",
+			"playyoutube",
+			"burgerslammer",
+			"toggleVid",
+			"swipage",
+			"matcho",
+			"subfooter",
+			"../WP-Build/wp-content/themes",
+			"input",
+			"godwinform",
+			"activio",
+			"squareholder-c",
+			"reset: true",
+			"bigimageb",
+			"chimneychoice",
+			"corkmigrants",
+			"https://intelligosoftware.com",
+			"yellow",
+			"blue",
+			"../WP-Build/wp-content/themes/",
+			"red",
+			"chimneychoice",
+			"footer",
+			"small",
+			"nano",
+			"class",
+			"hover",
+			"truncated",
+			"worldma",
+			"highligh",
+			"class=\"highlighter ",
+			"US",
+			"USA",
+			"class=\"highlighter\"",
+			" highlighter",
+			"IE",
+			"hotwor",
+			"druppel",
+			"border-left",
+			",",
+			" ",
+			"<ion-icon name=\"download-outline\"></ion-icon>",
+			"showbloc",
+			"highlight",
+			"class",
 			"class=",
-			"artistinfo",
-			"pageContext",
-			"resol",
-			"graphcmsdata",
-			"graphCmsData",
-			"graphCmsDataBoyy",
-			"img",
-			"imgg",
-			"class=\"",
-			"BlogIndex",
-			"class=\"",
-			"../img/",
-			"props",
-			"classNme"
+			"\"southamerica\"",
+			"southamerica",
+			"latin-america",
+			"#do",
+			"templateSplam",
+			"antigua",
+			"irela",
+			"unite",
+			"genmaincontent",
+			"boregrey",
+			"footer",
+			"social",
+			"vh",
+			"worldmapstructure",
+			"text_block_1",
+			"class",
+			"class=\"africa\"",
+			"world.svg",
+			"guine",
+			"madeira",
+			"india",
+			"uk",
+			"internalgentext",
+			"allpurpose",
+			"meitheal",
+			"meitheal_",
+			"error",
+			"blue",
+			"solarbut",
+			"slrwindspart",
+			"marv2019",
+			"generalt",
+			"192",
+			"generaltext",
+			"vh",
+			"&nbsp;",
+			"Athenry",
+			" Athenry",
+			"spainsbushireathenry",
+			"Loughrea",
+			" Loughrea",
+			"spainsbushireloughrea",
+			"Galway",
+			"spainsbushiregalway.com",
+			"spainsbushireLoughrea",
+			"Galway",
+			"cleanup",
+			"https://launch.solarwinds.com/1909_PartnerBootCampBerlin-EN_02.RegistrationPage.html?CMP=CHL-NS-X-X_DA_DE_X_X_X_EN_EVGEN_MKO-X-20190509_X_X_X_VidYes-SCP1&mkt_tok=eyJpIjoiTkdZNVkyWmtZbU0xTVRZeiIsInQiOiJMV216bG1OT2g0V2JDRUFqblRnK0VuVDdSckxSNVJINFhFRG0xT1N5d3lIUTRwK0NFeFwvU08xYU5POERuRVpPN3l4eGNzUDhNUWtaQnZUSVNQczZ5ZXc9PSJ9",
+			"german",
+			"cleanupdaysgerman",
+			"https://launch.solarwinds.com/1909_PartnerBootCampBerlin_02.RegistrationPage.html?CMP=CHL-NS-X-X_DA_DE_X_X_X_GR_EVGEN_MKO-X-20190509_X_X_X_VidYes-SCP1&mkt_tok=eyJpIjoiTm1NeVptWTBOakE1TURNeCIsInQiOiI2S2FUeEFZYTg2RDg1b0EyY3JFeXhQc2p3TjVyZ1ZaS1AwWjRJUmptZmxwKzJOWVRlVXlnWHhrTnRNeElTZThRd3ptZEkxZzRcL1lTXC9BeVlnbE1JTTRnPT0ifQ%3D%3D",
+			"-german",
+			"heightfixxer",
+			"nopaddmobile",
+			"agenditem",
+			"ontouchstart",
+			";\n",
+			"networking/networking-",
+			"/inc/img/general/networking.jpg",
+			"/inc/img/general/networking2",
+			"day4",
+			"is-two-fifths is-offset-one-fifth",
+			"is-one-fifth is-offset-one-fifth",
+			"is-6 agenda-item",
+			"mobheightfifty heightfixxer",
+			"heightfixxer",
+			"grey",
+			"backmagic",
+			"gifback",
+			"padding: 12em 0 9em 0;",
+			"solarbutton"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
-			"className=\"gallery\"",
+			"Advanced",
+			"from \"../../",
+			"https://www.doublemarvellous.com/emailgenerator/seo-email-generator-double-marvellous.jpg",
+			"../app/public/wp-content/themes",
+			"reset: false",
+			"godwin",
+			"<?php echo esc_url( home_url( '/' ) ); ?>",
+			"purple",
+			"broon",
+			"../app/public/wp-content/themes/",
+			"green",
+			"wellbeing",
+			"class=\"",
+			"class=\"\"",
 			"",
-			".jpg\" + \")\",\n}}></SwiperSlide>",
-			"<SwiperSlide class=\"gallery\" style={{  \n  backgroundImage: \"url(\" + \"http://reformpilatescork.ie/img/",
-			"className=",
-			"artiste",
-			"data",
-			"megadata",
-			"graphcmsdata",
-			"graphCmsData",
-			"className=\"",
-			"http://reformpilatescork.ie/img/",
-			"className"
+			"praya",
+			"','",
+			"",
+			"worldonly.svg",
+			"pbvm",
+			"pbvm_",
+			"slrwindspart",
+			" ",
+			"Ballinasloe",
+			" Ballinasloe",
+			"Ballinasloe",
+			"spainsbushireballinasloe",
+			"Athenry",
+			" Athenry",
+			"spainsbushireathenry",
+			"Loughrea",
+			"spainsbushireloughrea.com",
+			"spainsbushireloughrea",
+			"Loughrea",
+			"https://launch.solarwinds.com/1909_PartnerBootCampIsrael_02.RegistrationPagev2.html",
+			"israel",
+			"cleanupdaysenglish",
+			"https://launch.solarwinds.com/1909_PartnerBootCampBerlin_02.RegistrationPage.html",
+			"-english",
+			"heightfixxer nopaddmobile",
+			"networking/network-",
+			"/inc/img/homepage/networking/networking-1.jpg",
+			"is-two-fifths",
+			"is-two-fifths is-offset-one-fifth",
+			"is-8 agenda-item",
+			"",
+			"heightfixxermobile",
+			"backmagic mobheightfifty heightfixxer",
+			"@include bigsection;",
+			"template-parts/general/generalcard.php",
+			"1.5em,",
+			"1.1em,",
+			"1.2em,",
+			"1.2em",
+			"1em",
+			"solarwindsmicrosite",
+			"solargeneration",
+			"app",
+			"activate( # )",
+			" <li><a v-on:click=\"getcategoryname(' ### ');activate(###);\" :class=\"{ active : active_el == ### }\">",
+			"",
+			";\" :class=\"{ active : active_el_type == 1 }\">",
+			"{{theme_url}}",
+			"{{base_url}}",
+			"%base_url%",
+			"%theme_url%",
+			"btn-small",
+			"857f7b",
+			"@include font-size($buttonpee-font-sizes);",
+			"ff7500",
+			"stringo",
+			"$stringo",
+			"redhead",
+			"whitecell",
+			"redhead",
+			"whitecell",
+			"redhead",
+			"barrytron",
+			"10",
+			"$white",
+			"$grey",
+			"Cronins",
+			"showonmobile",
+			"croninsbooking",
+			"img/",
+			"<icon src=",
+			" src=\"img/icon",
+			"",
+			"\t\n",
+			"<!-- ////////////////// -->",
+			"width: 160px; vertical-align: top;",
+			"width: 160px; vertical-align: bottom;",
+			"'post_ID'",
+			"'post'",
+			"width: 20%;vertical-align: bottom; padding-bottom: 0px;padding-left: 5px;padding-right: 10px; padding-top: 10px;",
+			"https://image.ibb.co/b9gNEU/linkedsmall.png",
+			"height: 11px; width: 11px;background-size: contain;",
+			"similar_projects",
+			"Project",
+			"Projects",
+			"gpd",
+			"p",
+			"squarebutt goldbutt",
+			"lennoxhearing",
+			"p",
+			"faqs",
+			"default",
+			"menwomen",
+			"gallery",
+			"menu-item",
+			"hairyteeshop",
+			"hairyteeshopscripts",
+			"hairyteeshop",
+			"HairyTeeShop",
+			" ",
+			"faqueue",
+			"http://doodlecreative.ie",
+			"is-12-tablet is-8-desktop",
+			"font-size: .9em;",
+			"e",
+			".svg\" alt=\"Ilen Capital Whiskey\"",
+			"ilenwhiskey",
+			"whiskey",
+			"whiskeyscripts",
+			"h4",
+			"columns small-12 medium-4 textcenter",
+			"columns small-12 medium-4",
+			"columns small-12 medium-6"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -310,147 +1102,24 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "gatsby-config.js",
+					"file": "src/templates/blog-post.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3601,
+						"buffer_size": 2592,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/components/bookaclass.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 981,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								895,
-								646
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/components/layout.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 500,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								499,
-								475
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/pages/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1285,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								807,
-								807
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/pages/aboutus.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1286,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								516,
-								516
-							],
-							[
-								895,
-								895
+								1145,
+								1145
 							]
 						],
 						"settings":
@@ -467,20 +1136,50 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "src/components/navbar.js",
+					"buffer": 1,
+					"file": "src/pages/classes/barre_burn.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2516,
+						"buffer_size": 1398,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								982,
-								982
+								981,
+								981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/navbar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1096,
+								1096
 							]
 						],
 						"settings":
@@ -493,66 +1192,97 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "src/homepage/homeswiper.js",
+					"buffer": 3,
+					"file": "src/components/layout.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3162,
+						"buffer_size": 702,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								426,
-								426
+								186,
+								186
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 25.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "src/homepage/findus.js",
+					"buffer": 4,
+					"file": "gatsby-config.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1721,
+						"buffer_size": 3604,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1721,
-								1692
+								776,
+								776
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 299.0,
+						"translation.y": 234.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/pages/blog.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -564,7 +1294,7 @@
 	},
 	"input":
 	{
-		"height": 39.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -593,6 +1323,10 @@
 	{
 		"height": 0.0
 	},
+	"output.unsaved_changes":
+	{
+		"height": 24.0
+	},
 	"pinned_build_system": "",
 	"project": "reformo.sublime-project",
 	"replace":
@@ -620,12 +1354,20 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"_apply"
+			],
+			[
+				" ",
+				"accordionobutt"
+			]
 		],
-		"width": 0.0
+		"width": 527.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -635,7 +1377,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 222.0,
+	"side_bar_width": 328.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

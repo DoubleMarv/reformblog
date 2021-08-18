@@ -1,7 +1,9 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
+import Navbar from "../components/navbar"
+import Internalbanner from "../components/internalbanner"
+import Reformfooter from "../components/footer"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -12,10 +14,12 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+        <Navbar />
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
+<Internalbanner title={post.frontmatter.title} subtitle="Whatever"/>
       <article
         className="blog-post"
         itemScope
@@ -30,9 +34,6 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
         <hr />
-        <footer>
-          <Bio />
-        </footer>
       </article>
       <nav className="blog-post-nav">
         <ul
@@ -60,6 +61,7 @@ const BlogPostTemplate = ({ data, location }) => {
           </li>
         </ul>
       </nav>
+           <Reformfooter />
     </Layout>
   )
 }

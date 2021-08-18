@@ -74,9 +74,15 @@ section{
 }
 
 .centerlogo img{
-    max-height: 20vh;
-    margin-left: -10vh;
+width: 5vw;
+min-width: 8rem;
     position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    max-height: unset;
 }
 
 

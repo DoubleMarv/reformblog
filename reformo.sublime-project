@@ -2,22 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "content"
-		},
-		{
-			"path": "public"
-		},
-		{
 			"path": "src"
-		},
-		{
-			"path": "static"
-		},
-		{
-			"path": "node_modules"
-		},
-		{
-			"path": ".cache"
 		}
 	]
 }
